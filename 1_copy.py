@@ -1,7 +1,6 @@
 import cv2
 
 file_src = 'src.png'
-file_dst = 'dst.png'
 
 cv2.namedWindow('src', cv2.WINDOW_NORMAL)
 cv2.namedWindow('dst', cv2.WINDOW_NORMAL)
